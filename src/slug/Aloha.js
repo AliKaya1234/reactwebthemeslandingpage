@@ -20,7 +20,7 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Cambio 2
+            Mateo lo chupa
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
